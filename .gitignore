@@ -1,0 +1,14 @@
+# Terraform
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.tfvars
+terraform/*.tfvars.json
+
+# NodeJS
+node_modules/
+.env
+
+# Logs / Editor
+*.log
+.vscode/

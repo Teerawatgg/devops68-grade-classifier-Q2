@@ -1,0 +1,8 @@
+{
+  "name": "devops68-grade-classifier",
+  "version": "1.0.0",
+  "description": "API to classify grade based on score",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "license": "MIT"
+}
